@@ -13,6 +13,6 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,js,java,mongodb,sqlite,html,css,git,bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,mongodb,sqlite,git,bash&theme=dark)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvenAlcantara&hide_progress=true)
