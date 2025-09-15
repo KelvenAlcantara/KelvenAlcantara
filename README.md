@@ -8,7 +8,7 @@
 ---
 
 - Hi, I'm Kelven, a Data Scientist with 2 years of experience.
-- I’m eager to make a difference in the economic academic field
+- I’m eager to make a difference in the economic academic field.
 - In the private sector, I’m interested in working with companies that aim to create a big impact on society.
 - I’m currently working at Outlier as a Software Engineer for AI Training.
 
